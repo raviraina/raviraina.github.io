@@ -128,7 +128,7 @@ footer {
 	header nav li,
 	#boxes .box,
 	article#main-col,
-	 {
+	article#sidebar {
 		float:none;
 		text-align:center;
 		width:100%;
