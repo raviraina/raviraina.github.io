@@ -29,7 +29,7 @@ ul {
 header {
 	background:#FFFFFF;
 	color:#FFFFFF;
-	padding-top:30px;
+	padding-top:10px;
 	min-height:70px;
 	border-bottom:#018786 10px solid;
 }
@@ -63,12 +63,10 @@ header nav {
 
 header .highlight, header .current a{
 	color:#6200EE;
-	font-weight:bold;
 }
 
 header a:hover {
 	color:#6200EE;
-	font-weight:bold;
 }
 
 #showcase {
@@ -115,8 +113,8 @@ article#main-col {
 }
 
 footer {
-	padding:20px;
-	margin-top:20px;
+	padding:0px;
+	margin-top:5px;
 	color:#FFFFFF;
 	background-color:#E8491D;
 	text-align:center;
